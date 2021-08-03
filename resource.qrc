@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>green.gif</file>
+        <file>map.png</file>
+        <file>orange.gif</file>
+        <file>pacman(1).png</file>
+        <file>pacman(2).png</file>
+        <file>pacman(3).png</file>
+        <file>pacman(4).png</file>
+        <file>pink.gif</file>
+        <file>red.gif</file>
+        <file>giph(left.gif</file>
+        <file>giphy (down).gif</file>
+        <file>giphy(up).gif</file>
+        <file>giphy.gif</file>
+        <file>ghost blue.gif</file>
+    </qresource>
+</RCC>
